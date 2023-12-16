@@ -1,0 +1,1 @@
+This dataset consists of resolutions of the Dutch States General digitised for the REPUBLIC project at the Huygens Institute in Amsterdam and includes resolutions referring to extraordinary time conditions. For more information, see the accompanying article published in _Early Modern Low Countries _7 (2023)__
